@@ -1,0 +1,4 @@
+pyodbc
+Flask
+pandas
+redis
